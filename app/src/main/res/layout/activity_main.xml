@@ -11,6 +11,9 @@
 
 
 
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
     <androidx.fragment.app.FragmentContainerView
         android:layout_width="match_parent"
